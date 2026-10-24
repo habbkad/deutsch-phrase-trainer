@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+ <path d="M246 278 Q246 226 298 226 H726 Q778 226 778 278 V626 Q778 678 726 678 H451 L347 776 Q328 794 328 768 V678 H298 Q246 678 246 626Z" fill="#FFFDF5"/>
+ <text x="512" y="585" text-anchor="middle" font-family="Georgia,serif" font-size="318" font-weight="700" fill="#174332">ä</text>
+ <circle cx="741" cy="751" r="18" fill="#E7AA72"/><circle cx="792" cy="751" r="18" fill="#E7AA72"/><circle cx="843" cy="751" r="18" fill="#E7AA72"/>
+</svg>

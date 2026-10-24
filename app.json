@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Wortweg",
+    "slug": "deutsch-phrase-trainer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.wortweg.germanphrases",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-foreground.png",
+        "backgroundColor": "#174332"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F6F6F0"
+    }
+  }
+}
